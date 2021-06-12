@@ -17,3 +17,8 @@ git操作的具体步骤
     7、查看工作区和暂存区版本的区别
         git diff
     8、clear 清屏操作
+    9、git log
+        查看已经提交到暂存箱的历史版本
+    10 恢复文件到指定版本
+        git reset --hard HEAD^退回上个版本^^两个是退回两个版本
+        git reset --hard 版本号 退回指定版本
