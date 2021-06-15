@@ -30,3 +30,7 @@
    >     git remote add origin https://github.com/1450080342/Demo1.git
    >     git push -u origin master
    >     注 提交可能需要输入账号密码
+   # 14、git clone
+   >     从远程仓库克隆项目到本地
+   # 16、git pull
+   >     从远程仓库同步本地代码
